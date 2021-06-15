@@ -12,13 +12,6 @@ export default function Home() {
 
       <main>
         <Header title="Welcome to the start of konsoll!" />
-        <div class="col lg-2">
-    <p>assassda</p>
-    
-    </div>
-    <div class="col lg-2">
-    <p>aksksksk</p>
-    </div>
       </main>
 
       <Footer />
