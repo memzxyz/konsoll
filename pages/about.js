@@ -11,7 +11,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to the start of konsoll!!" />
+        <Header title="Here's a bit about us" />
       </main>
 
       <Footer />
